@@ -16,7 +16,7 @@ CardioLink is a cutting-edge web application designed for the detection of cardi
 ## Technologies Used
 
 - **Frontend:** HTML, TypeScript
-- **Backend & Database:** Supabase (PostgreSQL)
+- **Backend & Database:** Supabase 
 - **AI/ML Models:** Python
 - **IoT Integration:** C programming
 - **Build & Automation:** Makefile, Batchfile
@@ -31,7 +31,7 @@ git clone https://github.com/Krishna-Mantri/Cardio_link.git
 4. Connect and configure IoT devices following the hardware integration guidelines.
 5. Launch the web application and ensure it interfaces correctly with the data stream.
 
-##Demo Pictures
+## Demo Pictures
 
 
 <img width="1140" height="692" alt="image" src="https://github.com/user-attachments/assets/f2170f35-b026-498b-8484-f42f870331e8" />
@@ -64,6 +64,7 @@ git clone https://github.com/Krishna-Mantri/Cardio_link.git
 ## Contributing
 
 Contributions are warmly welcome! Please fork the repo and submit pull requests. Make sure to adhere to contributing guidelines and maintain coding standards.
+
 
 
 
